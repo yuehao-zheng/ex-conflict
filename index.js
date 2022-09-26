@@ -12,4 +12,7 @@ const addFC=()=>{
 const deleteFC=()=>{
     console.log(d);
 }
+const updateFC=()=>{
+    console.log(a);
+}
  
