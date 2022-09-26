@@ -7,3 +7,6 @@ const c=300;
 const addFC=()=>{
     console.log(a);
 }
+const deleteFC=()=>{
+    console.log(d);
+}
